@@ -1,0 +1,14 @@
+# Helm ignores the following files/directories when packaging the chart
+.git
+.gitignore
+README.md
+.md
+~*
+.DS_Store
+.idea
+.vscode
+*.lock
+.gitattributes
+.helmignore
+test/
+tests/
